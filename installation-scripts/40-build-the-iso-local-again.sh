@@ -43,7 +43,7 @@ echo
 	# change the variable to true and add the package names
 	# that are hosted on chaotics-aur in the packages.x86_64 at the bottom
 
-	chaoticsrepo=false
+	chaoticsrepo=true
 	
 	# If you are ready to use your personal repo and personal packages
 	# https://arcolinux.com/use-our-knowledge-and-create-your-own-icon-theme-combo-use-github-to-saveguard-your-work/
@@ -51,7 +51,7 @@ echo
 	# 2. change the file personal-repo to reflect your repo
 	# 3. add your applications to the file packages-personal-repo.x86_64
 
-	personalrepo=false
+	personalrepo=true
 
 	echo "################################################################## "
 	echo "Building the desktop                   : "$desktop

@@ -376,7 +376,7 @@ polkit-gnome
 #qt5-tools
 #qt5-webkit
 #powertop
-ripgrep
+#ripgrep
 #rofi
 #rxvt-unicode
 #simple-scan
@@ -484,7 +484,7 @@ the_silver_searcher
 #wttr
 #yad
 #yakuake
-yay-bin
+yay-git
 
 ###########################################################################
 #                               GAMES
@@ -515,8 +515,8 @@ arcolinux-bootloader-grub-git
 #arcolinux-geany-git
 arcolinux-grub-theme-vimix-git
 #arcolinux-gtk3-arcolinux-candy-beauty-git
-arcolinux-gtk3-sardi-arc-git
-#arcolinux-gtk3-surfn-arc-git
+#arcolinux-gtk3-sardi-arc-git
+arcolinux-gtk3-surfn-arc-git
 #arcolinux-gtk3-surfn-arc-breeze-git
 #arcolinux-gtk3-surfn-plasma-dark-git
 #arcolinux-guake-autostart-git
@@ -625,7 +625,7 @@ arcolinux-wallpapers-git
 #arcolinux-wayfire-nemesis-git
 #arcolinux-worm-git
 #arcolinux-wmderland-git
-arcolinux-xfce-git
+#arcolinux-xfce-git
 #arcolinux-xmonad-polybar-git
 #arcolinux-xmonad-xmobar-git
 
@@ -709,16 +709,16 @@ arcolinux-xfce-git
 #                                ARCOLINUX CALAMARES
 ###########################################################################
 
-arco-calamares
+#arco-calamares
 #arco-calamares-comp
 #arco-calamares-dev
 #arco-calamares-git
 #arco-calamares-next
 #arco-calamares-wayland
-arcolinux-system-installation-git
+#arcolinux-system-installation-git
 #arcolinux-system-installation-dev-git
-arcolinuxd-config-live-session-git
-arcolinux-welcome-app-git
+#arcolinuxd-config-live-session-git
+#arcolinux-welcome-app-git
 #arcolinuxd-welcome-app-git
 #arcolinux-welcome-app-dev-git
 #arcolinux-welcome-app-deepin-git
@@ -744,9 +744,9 @@ arcolinux-welcome-app-git
 #hwinfo
 #qt5-xmlpatterns
 
-adobe-source-han-sans-jp-fonts
-adobe-source-han-sans-kr-fonts
-adobe-source-han-sans-cn-fonts
+#adobe-source-han-sans-jp-fonts
+#adobe-source-han-sans-kr-fonts
+#adobe-source-han-sans-cn-fonts
 
 ###########################################################################
 #                                ARCOLINUX CONFIG CALAMARES
@@ -808,7 +808,7 @@ adobe-source-han-sans-cn-fonts
 #arco-calamares-config-xs-xanmod-git
 #arco-calamares-config-xs-zen-git
 #arco-calamares-config-xl-next-git
-arcod-calamares-config-git
+#arcod-calamares-config-git
 #arcod-calamares-config-git-git
 #arcod-calamares-config-comp-git
 #arcod-calamares-config-dev-git
@@ -818,9 +818,9 @@ arcod-calamares-config-git
 #                                DISPLAY MANAGERS
 ###########################################################################
 
-accountsservice
-sddm
-arcolinux-sddm-simplicity-git
+#accountsservice
+#sddm
+#arcolinux-sddm-simplicity-git
 
 ###########################################################################
 #                         PICOM OR COMPTON
@@ -879,20 +879,20 @@ arcolinux-sddm-simplicity-git
 
 ### xfce4 group content
 # https://www.archlinux.org/groups/x86_64/xfce4/
-exo
+#exo
 #garcon
-thunar
+#thunar
 #thunar-volman
 #tumbler
 #xfce4-appfinder
-xfce4-panel
+#xfce4-panel
 #xfce4-power-manager
-xfce4-session
-xfce4-settings
+#xfce4-session
+#xfce4-settings
 #xfce4-terminal
 #xfconf
-xfdesktop
-xfwm4
+#xfdesktop
+#xfwm4
 #xfwm4-themes
 
 ### xfce4-goodies group content
@@ -946,8 +946,67 @@ xfwm4
 
 chaotic-keyring
 chaotic-mirrorlist
-#mkinitcpio-firmware
+mkinitcpio-firmware
 
 ## chaotics-aur
 #flat-remix
 #colloid-cursors-git
+
+###########################################################################
+####                         ARCOPRO ISO SPECIFIC
+###########################################################################
+
+linux-lts
+linux-lts-headers
+
+###########################################################################
+####                               CALAMARES
+###########################################################################
+
+arco-calamares
+arcopro-calamares-config
+#arcolinux-system-installation-git
+arcolinux-system-installation-dev-git
+#arcolinux-welcome-app-git
+#arcolinuxd-welcome-app-git
+arcolinux-welcome-app-dev-git
+#arcolinux-welcome-app-deepin-git
+
+adobe-source-han-sans-jp-fonts
+adobe-source-han-sans-kr-fonts
+adobe-source-han-sans-cn-fonts
+
+
+###########################################################################
+####                           DISPLAY MANAGERS
+###########################################################################
+
+accountsservice
+sddm
+arcolinux-sddm-simplicity-git
+
+###########################################################################
+####                           DESKTOP MANAGERS
+###########################################################################
+
+xfce4
+xfce4-goodies
+
+###########################################################################
+####                            ARCONET CONFIGS
+###########################################################################
+
+arcolinux-arc-dawn-git
+arcolinux-btop-git
+#arconet-variety-config
+arcopro-wallpapers
+arconet-xfce
+
+###########################################################################
+####                            ARCOLINUX APPS
+###########################################################################
+
+btop
+feh
+ripgrep
+yad
