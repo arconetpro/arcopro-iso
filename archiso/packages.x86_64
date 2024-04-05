@@ -20,7 +20,7 @@ clonezilla
 cryptsetup
 #darkhttpd
 ddrescue
-dhclient
+#dhclient
 #dhcpcd
 diffutils
 dmidecode
@@ -46,8 +46,12 @@ grub
 hdparm
 hyperv
 intel-ucode
+#irssi
+iw
+iwd
 jfsutils
 #kitty-terminfo
+ldns
 less
 #lftp
 libfido2
@@ -108,7 +112,7 @@ sof-firmware
 squashfs-tools
 sudo
 syslinux
-#systemd-resolvconf
+systemd-resolvconf
 tcpdump
 terminus-font
 testdisk
@@ -570,7 +574,7 @@ arcolinux-systemd-services-git
 #arcolinux-variety-git
 #arcolinux-variety-autostart-git
 #arcolinux-volumeicon-git
-arcolinux-wallpapers-git
+#arcolinux-wallpapers-git
 #arcolinux-wallpapers-dual-git
 #arcolinux-wayfire-profile-git
 #arcolinux-wayland-profile-git
