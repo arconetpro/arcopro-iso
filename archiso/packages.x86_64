@@ -273,14 +273,14 @@ xdg-user-dirs
 #inkscape
 #libreoffice-fresh
 #lollypop
-#lshw
+lshw
 #meld
 micro
 #nitrogen
 numlockx
 #pragha
 #qbittorrent
-#scrot
+scrot
 #simplescreenrecorder
 #termite
 #variety
@@ -294,18 +294,18 @@ numlockx
 #xcursor-simpleandsoft
 
 ###fonts
-#adobe-source-sans-fonts
+adobe-source-sans-fonts
 #awesome-terminal-fonts
 noto-fonts
 #ttf-bitstream-vera
 ttf-dejavu
-#ttf-droid
+ttf-droid
 ttf-hack
 #ttf-inconsolata
 #ttf-liberation
-#ttf-roboto
-#ttf-roboto-mono
-#ttf-ubuntu-font-family
+ttf-roboto
+ttf-roboto-mono
+ttf-ubuntu-font-family
 
 ###icons
 #arc-icon-theme
@@ -358,29 +358,29 @@ hw-probe
 #hyphen-en
 #grsync
 #intltool
-iw
+#iw
 #jsoncpp
 #libmtp
 laptop-detect
 lsb-release
 mlocate
-#nomacs
+#nomacs-qt6-git
 #oh-my-zsh-git
 #p7zip
-#pkgfile
+pkgfile
 #plank
 #playerctl
 polkit
 polkit-gnome
 #python2-dbus
-##python2-xdg
+#python2-xdg
 #qt4
 #qt5ct
 #qt5-styleplugins
 #qt5-tools
 #qt5-webkit
 #powertop
-#ripgrep
+ripgrep
 #rofi
 #rxvt-unicode
 #simple-scan
@@ -453,16 +453,16 @@ mkinitcpio-openswap
 ###utilities-repo
 alacritty
 appstream
-appstream-qt5
+#appstream-qt5
 #archiso
 #conky-lua-archers
-#downgrade
+downgrade
 #font-manager
 #glxinfo
 #gitahead-bin
-#grub-customizer
+grub-customizer
 #hardcode-fixer-git
-#inxi
+inxi
 #mintstick-git
 neofetch
 #numix-gtk-theme-git
@@ -526,7 +526,7 @@ arcolinux-gtk3-surfn-arc-git
 #arcolinux-guake-autostart-git
 #arcolinux-hblock-git
 #arcolinux-hyprland-profile-git
-arcolinux-keyring
+#arcolinux-keyring
 #arcolinux-kvantum-git
 #arcolinux-kvantum-lxqt-git
 #arcolinux-kvantum-plasma-git
@@ -563,7 +563,7 @@ arcolinux-paru-git
 #arcolinux-slimlock-themes-git
 #arcolinux-system-config-git
 #arcolinux-system-config-dev-git
-arcolinuxd-system-config-git
+#arcolinuxd-system-config-git
 arcolinux-systemd-services-git
 #arcolinux-systemd-services-dev-git
 #arcolinux-sway-profile-git
@@ -957,7 +957,7 @@ mkinitcpio-firmware
 #colloid-cursors-git
 
 ###########################################################################
-####                         ARCOPRO ISO SPECIFIC
+####                   ARCOPRO ISO SPECIFIC
 ###########################################################################
 
 linux-lts
@@ -982,6 +982,12 @@ adobe-source-han-sans-cn-fonts
 
 
 ###########################################################################
+####                         KEYRINGS
+###########################################################################
+
+arcolinux-keyring
+
+###########################################################################
 ####                           DISPLAY MANAGERS
 ###########################################################################
 
@@ -1000,14 +1006,40 @@ xfce4-goodies
 ####                            ARCONET CONFIGS
 ###########################################################################
 
-arcolinux-arc-dawn-git
-arcolinux-btop-git
 #arconet-variety-config
+#arconet-wallpapers
 arcopro-wallpapers
 arconet-xfce
 
 ###########################################################################
-####                            ARCOLINUX APPS
+####                 ARCOLINUX APPS
+###########################################################################
+
+#archlinux-logout-git
+#archlinux-tweak-tool-git
+#arcolinux-app-glade-git
+#arcolinux-desktop-trasher-git
+#sofirem-git
+
+###########################################################################
+####                 ARCOLINUX CONFIGS
+###########################################################################
+
+#alacritty-themes
+#arcolinux-arc-dawn-git
+#arcolinux-btop-git
+#arcolinux-config-all-desktops-git
+#arcolinux-dconf-all-desktops-git
+#arcolinux-fish-git
+#arcolinux-meta-log
+#arcolinux-system-config-git
+#arcolinux-system-config-dev-git
+#arcolinuxd-system-config-git
+arcolinuxd-system-config-dev-git
+arcolinux-wallpapers-git
+
+###########################################################################
+####                       APPS
 ###########################################################################
 
 btop
