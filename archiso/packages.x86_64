@@ -280,7 +280,7 @@ micro
 numlockx
 #pragha
 #qbittorrent
-scrot
+#scrot
 #simplescreenrecorder
 #termite
 #variety
@@ -1045,4 +1045,16 @@ arcolinux-wallpapers-git
 btop
 feh
 ripgrep
+ttf-ms-fonts
+ttf-font-awesome
+ttf-jetbrains-mono-nerd
+variety
+vimix-cursors
 yad
+
+###########################################################################
+####                               CHAOTICS AUR
+###########################################################################
+
+#flat-remix
+#colloid-cursors-git
