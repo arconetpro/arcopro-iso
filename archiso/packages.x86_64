@@ -1016,10 +1016,10 @@ arconet-xfce
 ###########################################################################
 
 #archlinux-logout-git
-#archlinux-tweak-tool-git
+archlinux-tweak-tool-git
 #arcolinux-app-glade-git
-#arcolinux-desktop-trasher-git
-#sofirem-git
+arcolinux-desktop-trasher-git
+sofirem-git
 
 ###########################################################################
 ####                 ARCOLINUX CONFIGS
