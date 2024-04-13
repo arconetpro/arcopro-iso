@@ -245,18 +245,18 @@ echo
 	#Setting variables
 
 	#profiledef.sh
-	oldname1='iso_name="arcolinuxd'
-	newname1='iso_name="arcolinuxd'
+	oldname1='iso_name="arcopro'
+	newname1='iso_name="arcopro'
 
-	oldname2='iso_label="arcolinuxd'
-	newname2='iso_label="arcolinuxd'
+	oldname2='iso_label="arcopro'
+	newname2='iso_label="arcopro'
 
-	oldname3='ArcoLinuxD'
-	newname3='ArcoLinuxD'
+	oldname3='arcopro'
+	newname3='arcopro'
 
 	#hostname
-	oldname4='ArcoLinuxD'
-	newname4='ArcoLinuxD'
+	oldname4='arcopro'
+	newname4='arcopro'
 
 	#sddm.conf user-session
 	oldname5='Session=xfce'
