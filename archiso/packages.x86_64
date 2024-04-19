@@ -398,13 +398,9 @@ ripgrep
 #vnstat
 #w3m
 #webkit2gtk
-#wmctrl
 #xapp
-#xdo
-#xdotool
 #xdg-desktop-portal-gtk
 #yt-dlp
-#youtube-dl
 #zenity
 #zsh
 #zsh-completions
@@ -420,12 +416,8 @@ ripgrep
 #vivaldi-widevine
 
 ###cursors
-#breeze-cursors-lh
-#breeze-obsidian-cursor-theme
-#oxy-neon
 bibata-cursor-theme-bin
 #breeze
-#xcursor-vanilla-dmz-aa
 
 ###fonts
 #ttf-font-awesome
