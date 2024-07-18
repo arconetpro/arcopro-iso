@@ -226,6 +226,7 @@ rtl8821cu-morrownr-dkms-git
 #gvfs-mtp
 #gvfs-nfs
 #gvfs-smb
+#gvfs-dnssd
 #mtpfs
 #udiskie
 #udisks2
