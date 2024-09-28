@@ -54,7 +54,7 @@ echo
 	isoLabel='arcopro-'$arcolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
-	archisoRequiredVersion="archiso 79-1"
+	archisoRequiredVersion="archiso 80-1"
 	buildFolder=$HOME"/arcopro-build"
 	outFolder=$HOME"/arcopro-Out"
 	archisoVersion=$(sudo pacman -Q archiso)
