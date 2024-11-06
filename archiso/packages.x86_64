@@ -207,7 +207,6 @@ os-prober
 #avahi
 #nss-mdns
 mobile-broadband-provider-info
-modemmanager
 networkmanager
 network-manager-applet
 networkmanager-openconnect
@@ -622,7 +621,6 @@ btop
 feh
 mkinitcpio-firmware
 most
-ripgrep
 ttf-ms-fonts
 ttf-font-awesome
 ttf-jetbrains-mono-nerd
