@@ -2,10 +2,10 @@
 # shellcheck disable=SC2034
 
 iso_name="arcopro"
-iso_label="arcopro-v25.01.02"
+iso_label="arcopro-v25.02.01"
 iso_publisher="ArcoLinux <http://www.arcolinux.info>"
 iso_application="ArcoLinux Live/Rescue CD"
-iso_version="v25.01.02"
+iso_version="v25.02.01"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'
