@@ -136,7 +136,7 @@ echo
 	desktop="xfce"
 	dmDesktop="xfce"
 
-	arcolinuxVersion='v25.03.01'
+	arcolinuxVersion='v25.03.02'
 
 	isoLabel='arcopro-'$arcolinuxVersion'-x86_64.iso'
 
