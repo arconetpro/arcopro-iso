@@ -146,7 +146,7 @@ echo
 	isoLabel='arcopro-'$arcolinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
-	archisoRequiredVersion="archiso 82-1"
+	archisoRequiredVersion="archiso 83-1"
 	buildFolder=$HOME"/arcopro-build"
 	outFolder=$HOME"/arcopro-Out"
 
